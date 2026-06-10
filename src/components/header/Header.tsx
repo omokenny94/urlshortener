@@ -61,7 +61,7 @@ const lastFocusedElementRef = useRef<HTMLElement | null>(null);
             >
                <span className="sr-only">URL Shortener</span>
                <img
-                  src="../public/icons.svg"
+                  src="icons.svg"
                   alt="readymadeui logo"
                   className="h-9 w-auto"
                />
